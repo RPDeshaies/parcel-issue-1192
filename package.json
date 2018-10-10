@@ -1,0 +1,25 @@
+{
+  "name": "parcel-issue-hmr-circular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPDeshaies/parcel-issue-1192.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RPDeshaies/parcel-issue-1192/issues"
+  },
+  "homepage": "https://github.com/RPDeshaies/parcel-issue-1192#readme",
+  "dependencies": {
+    "parcel": "^1.10.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.2"
+  }
+}
