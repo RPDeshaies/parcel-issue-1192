@@ -6,6 +6,7 @@ npm start
 ```
 
 Open `http://localhost:1234` in chrome
+
 Go back in your editor and save either `A.ts` or `B.ts`
 
 In the dev console you will see:
