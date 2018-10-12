@@ -1,6 +1,6 @@
-import A from "./circular/A";
-import B from "./circular/B";
+import * as internal from "./internal";
 
 console.log("Main");
-console.log(A);
-console.log(B);
+console.log(internal.A);
+console.log(internal.B);
+console.log(internal.C);

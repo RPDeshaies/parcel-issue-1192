@@ -1,8 +1,7 @@
-import B from "./B";
+import { B } from "../internal";
 
 export const C = "xxx";
 
-export default () => {
+export const A = () => {
   return B;
 };
- 
